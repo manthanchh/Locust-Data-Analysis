@@ -1,7 +1,7 @@
 # Locust-Data-Analysis
 Analysing the relation between Cyclone occurrence and Change in Locust attack warning level.
 
-# Information From Food and Agriculture Organization of the United Nation: 
+# Information From Food And Agriculture Organization Of The United Nation: 
 Current upsurge (2019–2020)
 
 2018
